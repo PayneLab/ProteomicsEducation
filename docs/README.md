@@ -1,4 +1,4 @@
-# Data analysis side of proteomic research
+# Data analysis side of proteomics research
 
 This is a soft introduction to the data analysis side of proteomic research. These are interactive guides that walk you through the beginning step of proteomics. Our goal is to create an online interactive module that serves as a primer to the foundational concepts of mass spectrometry and proteomics. In many university settings, proteomics is taught from a chemistry perspective and lacks an interactive exploration of data sets. We approach proteomics from a data perspective to help train and attract bioinformatics and computational scientists into the field.
 
