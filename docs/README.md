@@ -10,7 +10,7 @@ Using publicly available data and interactive Python notebooks, we created a sui
 #### Chapter 1
 - [Lesson 1: Measuring Mass](https://colab.research.google.com/drive/1sDMcPdqfggWA1vrD4Odtruw_0owKnIMy#scrollTo=r5-iy9OnBs5f)
 - [Lesson 2: Mass measurements of complex mixtures](https://colab.research.google.com/drive/15cwLXSNBbVSGe1tdFB-VikMSgGXdmkKp#scrollTo=LkIJmJP3fDK3)
-- [Lesson 3: LC-MS ](https://paynelab.github.io/cptac/tutorial03_joining_dataframes.html)
+- [Lesson 3: LC-MS ](https://colab.research.google.com/drive/1SvigFgC8POvbZAHoMMW5u2XQLjw11_sm)
 - [Lesson 4: LC-MS/MS]...coming soon
 
 #### Chapter 2
