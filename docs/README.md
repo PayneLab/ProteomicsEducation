@@ -12,6 +12,8 @@ Using publicly available data and interactive Python notebooks, we created a sui
 - [Lesson 2: Mass measurements of complex mixtures](https://colab.research.google.com/drive/15cwLXSNBbVSGe1tdFB-VikMSgGXdmkKp#scrollTo=LkIJmJP3fDK3)
 - [Lesson 3: LC-MS ](https://colab.research.google.com/drive/1SvigFgC8POvbZAHoMMW5u2XQLjw11_sm)
 - [Lesson 4: LC-MS/MS]...coming soon
+- [Lesson 5:]
+- [Lesson 6:]
 
 #### Chapter 2
 - Lesson 1: .... (Planned)
