@@ -7,4 +7,4 @@ These lessons are designed to serve as a soft introduction to the field of prote
 - [Lesson 2: Mass measurements of complex mixtures](https://colab.research.google.com/drive/15cwLXSNBbVSGe1tdFB-VikMSgGXdmkKp#scrollTo=LkIJmJP3fDK3)
 - [Lesson 3: LC-MS ](https://colab.research.google.com/drive/1SvigFgC8POvbZAHoMMW5u2XQLjw11_sm)
 - [Lesson 4: LC-MS/MS](https://colab.research.google.com/drive/13WEV58HpkY7f0kFi2BA5ia5p0XZCL3Cq)
-- [Lesson 5: MS2 SPectrum Annotation](https://colab.research.google.com/drive/1LPdNVwdJqYxile9UcBxNYGJ48HqhEHLE?usp=sharing)
+- [Lesson 5: MS2 Spectrum Annotation](https://colab.research.google.com/drive/1LPdNVwdJqYxile9UcBxNYGJ48HqhEHLE?usp=sharing)
