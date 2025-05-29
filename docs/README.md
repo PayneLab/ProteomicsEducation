@@ -1,6 +1,8 @@
 # Computational Proteomics Lessons
 This GitHub repository is really just a jumping point for different sets of tutorials. The goal here is to help people understand different topics within computational proteomics. The overall compendium will continue to grow with new topics as we create new materials.
 
+We would love for others to contribute to this. Please email the Payne Lab to start the discussion.
+
 # Peptide Identification and Quantification of Mass Spectrometry Data
 These lessons are designed to serve as a soft introduction to the field of proteomics and the computational challenges therin. Our overall goal in these lessons is to approach proteomics from a computational perspective to help train and attract bioinformatics and computational students into the field. Below are links to currently-available lessons.
 
