@@ -1,4 +1,4 @@
-# Entry-Level Computational Proteomics Lessons
+# Computational Proteomics Lessons
 This GitHub repository is really just a jumping point for different sets of tutorials. The goal here is to help people understand different topics within computational proteomics. The overall compendium will continue to grow with new topics as we create new materials.
 
 # Peptide Identification and Quantification of Mass Spectrometry Data
