@@ -4,7 +4,7 @@ This GitHub repository is really just a jumping point for different sets of tuto
 We would love for others to contribute to this. Please email the Payne Lab to start the discussion.
 
 # Peptide Identification and Quantification of Mass Spectrometry Data
-These lessons are designed to serve as a soft introduction to the field of proteomics and the computational challenges therin. Our overall goal in these lessons is to approach proteomics from a computational perspective to help train and attract bioinformatics and computational students into the field. Below are links to currently-available lessons.
+These lessons are designed to serve as a soft introduction to the field of proteomics and the computational challenges therin. Our overall goal in these lessons is to approach proteomics from a computational perspective to help train and attract bioinformatics and computational students into the field. These tutorials were described in [this publication](https://pubs.acs.org/doi/10.1021/jasms.4c00185) Below are links to currently-available lessons.
 
 ## Tutorials
 - [Lesson 1: Measuring Mass](https://colab.research.google.com/drive/1sDMcPdqfggWA1vrD4Odtruw_0owKnIMy#scrollTo=r5-iy9OnBs5f)
