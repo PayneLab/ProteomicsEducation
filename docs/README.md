@@ -18,7 +18,7 @@ These lessons are designed to serve as a soft introduction to the field of prote
 In proteomics, peptide sequences are a foundational data type. They are the basic thing we measure with mass spectrometry, and so they are often the at the center of various machine learning tasks. Peptide sequences are typically represented in text as a string (e.g. SAMPLER). However, ML requires inputs to be numeric. In order for ML to be able to use our data, we need to first convert the sequences into numeric representations-- embeddings. This series of notebooks covers the philosophical and technical details of peptide embeddings.
 
 ## Tutorials
-- [Chapter 1: Simple Embeddings](https://colab.research.google.com/drive/16X24UTXu850_VKFmL3lXztfjqunF4Ck2?usp=sharing)
-- [Chapter 2: Complex Embeddings](https://colab.research.google.com/drive/1QkCKxmyYcMnaeT7V2VTyGdo0IyxtjirV?usp=sharing)
-- [Chapter 3: Learned Embeddings](https://colab.research.google.com/drive/1e3E8HcGstGyOznk98vBaUFa3DqVLQMlM?usp=sharing)
-- [Chapter 4: Benchmarking Embeddings](https://colab.research.google.com/drive/1IGVbs4i3YIEAMWcezbBX35Slsn8ioV17?usp=sharing)
+- [Chapter 1: Simple Embeddings](https://colab.research.google.com/drive/1A2XCfTDEFdP-CSYHB-M0hoZ-66ckmlTy?usp=sharing)
+- [Chapter 2: Complex Embeddings](https://colab.research.google.com/drive/1Ufrbyjao6lhcL-q6lWodxGTGBXqk-C51?usp=sharing)
+- [Chapter 3: Learned Embeddings](https://colab.research.google.com/drive/1FIU5AqrMuzV5v-o8cF7AMY5Ccwh4oqaE?usp=sharing)
+- [Chapter 4: Benchmarking Embeddings](https://colab.research.google.com/drive/1YHHYom1nYnaAFsR3B8XU8Qs6cZxHSAME?usp=sharing)
